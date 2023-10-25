@@ -20,7 +20,9 @@ Challenge for week 20 module for UPenn LPS Full Stack Coding Bootcamp. This is a
 4. npm run start
 
 ## Usage
-This is deployed to Netlify so you can check it out without having to install it yourself.
+This is deployed to [Netlify](https://brendan-portfolio.netlify.app) so you can check it out without having to install it yourself.
+
+![Screenshot 2023-10-25 151142](https://github.com/BLam1226/React-Portfolio/assets/127125695/b4b88018-3a00-4541-8bdc-ff7a6c8dd2c3)
 
 ## Contributing
 N/A
