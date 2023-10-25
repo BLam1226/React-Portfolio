@@ -1,7 +1,7 @@
 import { Container, Row, Col } from "react-bootstrap";
 import Typewriter from "typewriter-effect";
 import Profile from "../../public/profile-img.jpg";
-import { AiFillGithub, AiFillInstagram, AiFillSlackCircle, AiFillSlackSquare } from "react-icons/ai";
+import { AiFillGithub, AiFillSlackCircle } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import Tilt from "react-parallax-tilt";
 
